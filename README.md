@@ -28,5 +28,5 @@
   
 </div>
 
-//![snake gif](https://github.com/kaued/kaued/blob/output/github-contribution-grid-snake.gif)
+
 
