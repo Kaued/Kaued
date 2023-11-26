@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Kauê Domingues
 
 - 🔭 Hoje trabalho com: Desenvolvimento Web
-- 🌱 Estou aprendendo: Laravel e React
+- 🌱 Estou aprendendo: Laravel e Angular
 ##
 <div>
   <a href="https://github.com/Kaued">
